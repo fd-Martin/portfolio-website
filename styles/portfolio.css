@@ -193,16 +193,19 @@ section {
     text-align: left;
 }
 
-.contact input[type="text"], input[type="email"],
+.contact input[type="text"],
+input[type="email"],
 textarea {
     margin-bottom: 24px;
     border: 0;
     width: 100%;
     padding: 18px 30px;
 }
-input{
+
+input {
     height: 64px;
 }
-.contact a{
+
+.contact a {
     text-decoration: none;
 }
